@@ -56,8 +56,6 @@ The LSTM model consists of:
 
 📌 The model outputs predicted stock prices, which are plotted against actual prices for comparison.
 
-![Stock Price Graph](https://via.placeholder.com/800x400.png?text=Stock+Price+Prediction)
-
 ## 🎯 Future Improvements
 
 🔹 Hyperparameter tuning for better accuracy\
